@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prabal Wadhwa
 
-💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 💄 Makeup Artist  
+💻 Full Stack Developer | 🎨 UI/UX Enthusiast
 
 ---
 
@@ -8,8 +8,6 @@
 
 - 💻 I build apps using **MERN Stack & React Native**
 - 🎯 Focused on writing clean, scalable code
-- 🎨 Passionate about **UI/UX design**
-- 💄 Professional Makeup Artist with 2+ years experience
 - 📍 Based in India
 
 ---
