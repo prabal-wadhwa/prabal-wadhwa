@@ -61,17 +61,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Prabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabal-wadhwa&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/prabal-wadhwa
-- LinkedIn: _Add your link here_
-- Portfolio: _Add if you have_
+- LinkedIn: www.linkedin.com/in/prabal-wadhwa
+- Portfolio: [_Add if you have_](https://prabal-wadhwa.github.io/portfolio/)
 
 ---
 
