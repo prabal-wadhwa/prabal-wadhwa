@@ -63,10 +63,10 @@
 
 - GitHub: https://github.com/prabal-wadhwa
 - LinkedIn: www.linkedin.com/in/prabal-wadhwa
-- Portfolio: [_Add if you have_](https://prabal-wadhwa.github.io/portfolio/)
+- Portfolio:(https://prabal-wadhwa.github.io/portfolio/)
 
 ---
 
 ## ⚡ Fun Fact
 
-I combine **tech + creativity** — building apps and doing makeup 🎨💻
+I combine **tech + creativity** — building apps💻
