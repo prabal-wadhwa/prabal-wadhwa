@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Prabal Wadhwa
 
-<!--
-**prabal-wadhwa/prabal-wadhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 💄 Makeup Artist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 I build apps using **MERN Stack & React Native**
+- 🎯 Focused on writing clean, scalable code
+- 🎨 Passionate about **UI/UX design**
+- 💄 Professional Makeup Artist with 2+ years experience
+- 📍 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+- React.js
+- React Native
+- TypeScript
+- Redux
+- HTML, CSS, JavaScript
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- MongoDB
+
+### 🧰 Tools & Others
+- Git & GitHub
+- REST APIs
+- Firebase (basic)
+- WebSockets (learning)
+
+---
+
+## 📱 Projects
+
+### 🏢 WorkPlace (Task Board App)
+- Kanban-style task management system
+- Drag & drop functionality
+- MERN stack based
+
+### 📋 Lifestyle Survey App
+- Multi-step form with validations
+- Built using React Native + Redux + React Hook Form
+
+### 💳 Subscription & Payment App
+- Integrated Stripe payments
+- Plan management & cancellation flows
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React Native
+- System Design basics
+- Real-time apps using WebSockets
+
+---
+
+## 📊 GitHub Stats
+
+![Prabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabal-wadhwa&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/prabal-wadhwa
+- LinkedIn: _Add your link here_
+- Portfolio: _Add if you have_
+
+---
+
+## ⚡ Fun Fact
+
+I combine **tech + creativity** — building apps and doing makeup 🎨💻
